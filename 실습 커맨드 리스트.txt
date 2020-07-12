@@ -35,7 +35,7 @@ Apache Kafka 입문과 활용
 
 # 텔레그래프 설치
 26 brew install telegraf
-
+설치위치 확인 brew info telegraf
 또는 https://drive.google.com/file/d/1iRbOjRvHpEnzbezjdifRWDTOrrD2iDag/view?usp=sharing
 
 27 telegraf -config telegraf.conf
